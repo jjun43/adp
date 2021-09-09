@@ -1,8 +1,6 @@
 # ADP 실기
 ***
 
-
-
 ### ADP 실기
 - https://github.com/H2O-500ml/ADP #python
 - https://github.com/Boanerges153/TIL/tree/main/ADP_study #python, r
@@ -14,3 +12,4 @@
 
 ### Reference
 - https://github.com/rickiepark/introduction_to_ml_with_python #파이썬 라이브러리를 활용한 머신러닝
+- https://github.com/wikibook/pymldg-rev # 파이썬 머신러닝 완벽 가이드(개정판)
