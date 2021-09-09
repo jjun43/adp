@@ -8,4 +8,4 @@
 - https://github.com/Boanerges153/TIL/tree/main/ADP_study # r,python
 - https://github.com/kisehyun/STUDY/tree/main/ADP #python
 - https://shiningyouandme.tistory.com/37?category=807628 # python,모의고사
-- Dataset: ADP실기, 데이터에듀
+- ADP실기 데이터에듀
