@@ -1,13 +1,13 @@
 # ADP 실기
 ***
 
-### ADP 실기 (전체모형)
+### ADP 실기 
 - https://github.com/H2O-500ml/ADP #python
 - https://github.com/Boanerges153/TIL/tree/main/ADP_study #python, r
 - https://github.com/kisehyun/STUDY/tree/main/ADP #python
 - https://github.com/kamzzang/ADPStudy  #r2py
 
-### 데이터에듀 모의고사
+### 모의고사 (데이터에듀)
 - https://github.com/H2O-500ml/ADP #python
 - https://shiningyouandme.tistory.com/37?category=807628 # 모의고사(python)
 - https://github.com/Devjunku/ADP-Practical-skills # 모의고사(r)
