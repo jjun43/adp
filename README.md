@@ -12,7 +12,7 @@
 - https://shiningyouandme.tistory.com/37?category=807628 # 모의고사(python)
 - https://github.com/Devjunku/ADP-Practical-skills # 모의고사(r)
 
-# Python
+### Python
 - https://blog.naver.com/eyuki2/222404487876 # 변수선택법
 - https://todayisbetterthanyesterday.tistory.com/10 # 변수선택법
 
