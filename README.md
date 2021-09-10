@@ -1,11 +1,12 @@
 # ADP 실기
 ***
 
-### ADP 실기 
-- https://github.com/H2O-500ml/ADP #python
+### ADP 실기 (python
+- https://github.com/H2O-500ml/ADP 
 - https://github.com/Boanerges153/TIL/tree/main/ADP_study #python, r
-- https://github.com/kisehyun/STUDY/tree/main/ADP #python
+- https://github.com/kisehyun/STUDY/tree/main/ADP 
 - https://github.com/kamzzang/ADPStudy  #r2py
+- https://blog.naver.com/eyuki2/222347185450 
 
 ### 모의고사 (데이터에듀)
 - https://github.com/H2O-500ml/ADP #python
