@@ -1,7 +1,7 @@
 # ADP 실기
 ***
 
-### ADP 실기 (python
+### ADP 실기 (python)
 - https://github.com/H2O-500ml/ADP 
 - https://github.com/Boanerges153/TIL/tree/main/ADP_study #python, r
 - https://github.com/kisehyun/STUDY/tree/main/ADP 
