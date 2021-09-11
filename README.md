@@ -2,8 +2,7 @@
 ***
 
 ***
-- 모의고사1_apriori_anova_wordCloud.ipynb
- -https://nbviewer.jupyter.org/github/jjun43/adp/blob/main/%E1%84%86%E1%85%A9%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A9%E1%84%89%E1%85%A11_apriori_anova_wordCloud.ipynb
+- [모의고사1_apriori_anova_wordCloud.ipynb](https://nbviewer.jupyter.org/github/jjun43/adp/blob/main/%E1%84%86%E1%85%A9%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A9%E1%84%89%E1%85%A11_apriori_anova_wordCloud.ipynb)
 ***
 ### 
 - 통계분석
