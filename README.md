@@ -22,7 +22,6 @@
   - Data Imbalance (언더샘플링, 오버샘플링)
   - Feature Select (분산, 단일변수 선택, 특성중요도계산)
   - Pandas (Datetime, Random 등등)
-
  
 ***
 ### Reference
@@ -46,6 +45,9 @@
 #### Python
 - https://blog.naver.com/eyuki2/222404487876 # 변수선택법
 - https://todayisbetterthanyesterday.tistory.com/10 # 변수선택법
+
+#### 데이터분석 
+- https://datascienceschool.net/intro.html # pandas, numpy, 머신러닝
 
 #### 교재
 - ADP실기 데이터에듀
