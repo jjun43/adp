@@ -38,9 +38,16 @@
 - https://github.com/Devjunku/ADP-Practical-skills # 모의고사(r)
 
 #### 복원
-- 21회, https://ysyblog.tistory.com/221
-- 20회, https://ysyblog.tistory.com/221
-- 19회, https://ysyblog.tistory.com/114
+- 21회
+  - https://ysyblog.tistory.com/221
+  - https://github.com/kisehyun/STUDY/tree/main/ADP
+  - https://mizykk.tistory.com/127
+- 20회
+  - https://ysyblog.tistory.com/221
+- 19회
+  - https://ysyblog.tistory.com/114
+- 17회
+  - https://statinknu.tistory.com/19  
 
 #### Python
 - https://blog.naver.com/eyuki2/222404487876 # 변수선택법
