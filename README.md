@@ -2,7 +2,7 @@
 ***
 
 ***
-- [모의고사1_apriori_anova_wordCloud.ipynb](https://nbviewer.jupyter.org/github/jjun43/adp/blob/main/모의고사1_apriori_anova(stepwise)_wordCloud.ipynb)
+- [모의고사1_apriori_anova(stepwise)_wordCloud.ipynb](https://nbviewer.jupyter.org/github/jjun43/adp/blob/main/모의고사1_apriori_anova(stepwise)_wordCloud.ipynb)
 ***
 ### 
 - 통계분석
