@@ -14,18 +14,18 @@
  - 응용회귀(Lasso, Ridge)
  - 시계열분석(ARIMA, SARIMA, MARIMA, MA, AR, 정상성처리 등등)
  - 주성분분석 (PCA)
-#### 데이터마이닝
-- 분류분석(로지스틱회귀, 의사결정나무, 앙상블, SVM, KNN, 인공신경망, 오분류표/ROC)
-- 군집분석(KNN, SOM, EM)
-- 연관분석(Apriori)
-#### 텍스트마이닝
-- TDM, Word Cloud
-#### 시각화
-- 점그래프, 선그래프, 히스토그램, 파이차트, 산점도, 산점도 행렬
-#### 데이터처리, 전처리
-- Data Imbalance (언더샘플링, 오버샘플링)
-- Feature Select (분산, 단일변수 선택, 특성중요도계산)
-- Pandas (Datetime, Random 등등)
+- 데이터마이닝
+ - 분류분석(로지스틱회귀, 의사결정나무, 앙상블, SVM, KNN, 인공신경망, 오분류표/ROC)
+ - 군집분석(KNN, SOM, EM)
+ - 연관분석(Apriori)
+- 텍스트마이닝
+ - TDM, Word Cloud
+- 시각화
+ - 점그래프, 선그래프, 히스토그램, 파이차트, 산점도, 산점도 행렬
+- 데이터처리, 전처리
+ - Data Imbalance (언더샘플링, 오버샘플링)
+ - Feature Select (분산, 단일변수 선택, 특성중요도계산)
+ - Pandas (Datetime, Random 등등)
  
 ***
 ### Reference
