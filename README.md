@@ -60,6 +60,10 @@
 #### 데이터분석 
 - https://datascienceschool.net/intro.html # pandas, numpy, 머신러닝
 
+#### Pandas 
+- https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf # Pandas Cheat sheet 
+- https://dataitgirls2.github.io/10minutes2pandas/ # Pandas 10분완성 
+
 #### 교재
 - ADP실기 데이터에듀
 - https://github.com/rickiepark/introduction_to_ml_with_python #파이썬 라이브러리를 활용한 머신러닝
