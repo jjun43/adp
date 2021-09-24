@@ -25,14 +25,14 @@
  
 ***
 ### Reference
-#### ADP 실기 (python)
+#### ADP 실기소스/자료 (python)
 - https://github.com/H2O-500ml/ADP #python
 - https://github.com/Boanerges153/TIL/tree/main/ADP_study #python, r
 - https://github.com/kisehyun/STUDY/tree/main/ADP #python
 - https://github.com/kamzzang/ADPStudy  #r2py
 - https://blog.naver.com/eyuki2/222347185450 #python
 
-#### 모의고사 (데이터에듀)
+#### 모의고사풀이 (데이터에듀)
 - https://github.com/H2O-500ml/ADP #python
 - https://shiningyouandme.tistory.com/37?category=807628 # 모의고사(python)
 - https://github.com/Devjunku/ADP-Practical-skills # 모의고사(r)
