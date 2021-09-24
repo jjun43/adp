@@ -42,6 +42,8 @@
   - https://didalsgur.tistory.com/entry/데이터분석전문가ADP-실기시험-기출문제-조사-1-통계-분석
   - https://didalsgur.tistory.com/entry/데이터분석전문가ADP-실기시험-기출문제-조사-2-데이터-마이닝-기계-학습
   - https://didalsgur.tistory.com/entry/데이터분석전문가ADP-실기시험-기출문제-조사-3-텍스트-마이닝
+- 22회 (21년 9월 12일)
+  - https://ysjang0926.github.io/data/2021/09/22/ADP-22-comments/
 - 21회
   - https://ysyblog.tistory.com/221
   - https://github.com/kisehyun/STUDY/tree/main/ADP
