@@ -68,6 +68,7 @@
 
 #### 확률/통게 이론
 - https://www.youtube.com/playlist?list=PLpIPLT0Pf7IqS4as3nefPyGv94r2aY6IT #김성범[소장/인공지능공학연구소]
+- https://www.youtube.com/channel/UCnN2E8RCEuKi-WLBrd0Nu1A #통알못을 위한 통계튜브 
 
 
 #### 교재
