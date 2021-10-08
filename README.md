@@ -58,6 +58,7 @@
   - https://statinknu.tistory.com/19  
 
 #### Python
+- https://acdongpgm.tistory.com/111 # 변수선택법
 - https://blog.naver.com/eyuki2/222404487876 # 변수선택법
 - https://todayisbetterthanyesterday.tistory.com/10 # 변수선택법
 
