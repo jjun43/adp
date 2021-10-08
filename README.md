@@ -58,6 +58,7 @@
   - https://statinknu.tistory.com/19  
 
 #### Python
+- https://www.analyticsvidhya.com/blog/2020/10/a-comprehensive-guide-to-feature-selection-using-wrapper-methods-in-python/ # 변수선택법
 - https://acdongpgm.tistory.com/111 # 변수선택법
 - https://blog.naver.com/eyuki2/222404487876 # 변수선택법
 - https://todayisbetterthanyesterday.tistory.com/10 # 변수선택법
