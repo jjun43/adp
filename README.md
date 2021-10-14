@@ -33,6 +33,7 @@
 - https://github.com/kisehyun/STUDY/tree/main/ADP #python
 - https://github.com/kamzzang/ADPStudy  #r2py
 - https://blog.naver.com/eyuki2/222347185450 #python
+- https://github.com/bluemumin/ADP_certificate_preperation #python
 
 #### 모의고사풀이 (데이터에듀)
 - https://github.com/H2O-500ml/ADP #python
