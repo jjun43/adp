@@ -59,6 +59,9 @@
 - 17회
   - https://statinknu.tistory.com/19  
 
+#### 시계열
+- https://h3imdallr.github.io/2017-08-19/arima/ #ARIMA
+
 #### Python
 - https://blog.naver.com/eyuki2/222404487876 # 변수선택법
 - https://todayisbetterthanyesterday.tistory.com/10 # 변수선택법
