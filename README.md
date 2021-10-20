@@ -52,7 +52,8 @@
   - https://github.com/kisehyun/STUDY/tree/main/ADP
   - https://mizykk.tistory.com/127
 - 20회
-  - https://ysyblog.tistory.com/221
+ - https://cafe.naver.com/sqlpd/18900
+ - https://ysyblog.tistory.com/221
 - 19회
   - https://ysyblog.tistory.com/114
 - 17회
