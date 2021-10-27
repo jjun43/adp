@@ -82,4 +82,5 @@
 - https://github.com/rickiepark/introduction_to_ml_with_python #파이썬 라이브러리를 활용한 머신러닝
 - https://github.com/chulminkw/PerfectGuide # 파이썬 머신러닝 완벽 가이드(개정판)
 - https://github.com/ExcelsiorCJH/Hands-On-ML # 핸즈온 머신러닝(Hands-On Machine Learning) (개정판)
+ - https://www.youtube.com/playlist?list=PLJN246lAkhQjX3LOdLVnfdFaCbGouEBeb #무료강의
 - https://github.com/jakevdp/PythonDataScienceHandbook # 파이썬 데이터 사이언스 핸드북
