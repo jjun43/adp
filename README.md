@@ -81,3 +81,4 @@
 - ADP실기 데이터에듀
 - https://github.com/rickiepark/introduction_to_ml_with_python #파이썬 라이브러리를 활용한 머신러닝
 - https://github.com/wikibook/pymldg-rev # 파이썬 머신러닝 완벽 가이드(개정판)
+- https://github.com/ExcelsiorCJH/Hands-On-ML # 핸즈온 머신러닝(Hands-On Machine Learning) (개정판)
